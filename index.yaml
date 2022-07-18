@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  deploy-elibrary:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-18T11:15:27.774569476Z"
+    description: A Helm chart for Kubernetes
+    digest: b0324f3e26cdae8dc4e92653b5595f34e991459d99520a7dfe4370ad384ae3e1
+    name: deploy-elibrary
+    type: application
+    urls:
+    - deploy-elibrary-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-18T11:15:27.773822558Z"
